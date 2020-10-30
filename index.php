@@ -27,7 +27,6 @@
     <img src="ค้างความ.jpg" />
     <br />
     <a href="http://www.it.kmitl.ac.th">This is a Link</a>
-
     <h2>The web i like</h2>
     <br />
     <a herf="https://www.youtube.com/?app=desktop">youtube</a>
