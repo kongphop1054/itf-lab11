@@ -1,34 +1,19 @@
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Hello World</title>
-  </head>
-  <body>
-    <h1>สวัสดีครับ</h1>
-    <p>
-      ผมชื่อนายก้องภพ นวลสันเทียะ รหัสน.ศ. 63070005 ชอบกินกะเพราครับ
-      <img src="unnamed.jpg" />
-      เรื่องที่จะเล่าคือกาลครั้งหนึ่งมีค้างคาว 3 ตัวอาศัยอยู่บนต้นไม้ต้นเดียวกัน
-      มีค้างคาวเด็ก ค้างคาวหนุ่ม และค้างคาวเฒ่า ปกติมันทั้ง 3
-      จะผลัดเวรกันออกไปหาเลือดสดๆ มาแบ่งปันกันและวันนี้เป็นเวรของเจ้าค้างคาวน้อย
-      ค้างคาวน้อยออกไปนานนานมาก ก็ยังไปกลับแต่ที่สุดแล้วมันก็กลับมา
-      'ข้าขอโทษนะที่หาอาหารมาให้ไม่ได้
-      ข้าคิดว่าช่วงนี้เป็นหน้าแล้งต่างๆพากันอพยพไปหมด'ค้างคาวน้อยบอกเสียงเจื้อยแจ้ว
-      'ไม่ใช่หรอกเจ้าหนะยังด้อยประสบการณ์นักเดี๋ยวข้าออกไปเอง'
-      เจ้าค้างคาวหนุ่มกล่าวว่าแล้วมันก็ออกไป
-      และออกไปนานนานกว่าเจ้าค้างคาวน้อยอีกและก็กลับมามือเปล่า
-      'สงสัยท่านผู้เฒ่าต้องช่วยพวกเราแล้วหละครับ' เจ้าหนุ่มกล่าว
-      ว่าแล้วค้างคาวผู้เฒ่าก็ออกไปไม่น่าเชื่อเพียงไม่นานท่านผู้เฒ่าก็กลับมา
-      พร้อมกับเลือดสดๆ เต็มปาก 'ท่านทำได้ไงเนี่ย
-      ท่านผู้เฒ่า'ค้างคาวทั้งสองร้องด้วยความดีใจระคนประหลาดใจ
-      ท่านผู้เฒ่ากล่าวอย่างเคร่งขรึม 'พวก :)เห็นต้นไม้ด้านหน้านั้นมั้ย'
-      'เห็นครับท่าน''นั่นแหละกูไม่เห็น'
-    </p>
-    <img src="ค้างความ.jpg" />
-    <br />
-    <a href="http://www.it.kmitl.ac.th">This is a Link</a>
-    <h2>The web i like</h2>
-    <br />
-    <a herf="https://www.youtube.com/?app=desktop">youtube</a>
-  </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Hello</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" 
+  integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">/>
+</head>
+<body>
+  <div class="container">
+    <h1>Hello</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio odit illum autem porro! Quisquam
+voluptatibus nesciunt impedit, suscipit corporis, minus culpa molestiae necessitatibus blanditiis,repellat
+mollitia beatae hic volupatatum deleniti.</p>
+  </div>
+</body>
 </html>
