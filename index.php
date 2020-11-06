@@ -11,17 +11,17 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-6 col-xl-6 col-8">
                 <img src="https://picsum.photos/id/237/200/300" class="img-fluid">
             </div>
-            <div class="col-md-2">
+            <div class="col-md-2 col-xl-2 col-4">
                 <img src="https://picsum.photos/id/238/200/300" class="img-fluid">
                 <img src="https://picsum.photos/id/239/200/300" class="img-fluid">
                 <img src="https://picsum.photos/id/234/200/300" class="img-fluid">
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 col-xl-2 col-4">
                 <img src="https://picsum.photos/id/137/200/300" class="img-fluid">
-                <img src="https://picsum.photos/id/287/200/300" style="height: 20%;">
+                <img src="https://picsum.photos/id/287/200/300" class="img-fluid">
             </div>
         </div> 
     </div>    
