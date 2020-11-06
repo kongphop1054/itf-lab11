@@ -20,7 +20,7 @@
                 <img src="https://picsum.photos/id/234/200/300" class="img-fluid">
             </div>
             <div class="col-md-4 col-xl-2 col-4">
-                <img src="https://picsum.photos/id/137/200/300" class="img-fluid" style="height: 50%; width: 80%">
+                <img src="https://picsum.photos/id/137/200/300" class="img-fluid" style="height: 50%; width: 100%">
                 <img src="https://picsum.photos/id/287/200/300" class="img-fluid">
             </div>
         </div> 
