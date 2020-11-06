@@ -1,4 +1,4 @@
-# itf-lab12
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,7 +12,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-xl-6 col-8">
-                <img src="https://picsum.photos/id/237/200/300" class="img-fluid">
+                <img src="This PC/Desktop/www/img/work/work1" class="img-fluid">
             </div>
             <div class="col-md-2 col-xl-2 col-4">
                 <img src="https://picsum.photos/id/238/200/300" class="img-fluid">
