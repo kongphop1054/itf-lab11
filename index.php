@@ -12,7 +12,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-xl-6 col-8">
-                <img src="https://www.google.com/search?q=%E0%B8%A3%E0%B8%B9%E0%B8%9B&rlz=1C1CHZN_enTH913TH913&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj8z-zbmu3sAhWP63MBHflEBgkQ_AUoAXoECAcQAw&biw=1920&bih=969#imgrc=PUHXuBlxj_x9dM" class="img-fluid">
+                <img src="https://picsum.photos/id/289/200/300" class="img-fluid" style="height: 100%; width: 100%">
             </div>
             <div class="col-md-2 col-xl-2 col-4">
                 <img src="https://picsum.photos/id/238/200/300" class="img-fluid">
