@@ -15,9 +15,9 @@
                 <img src="https://picsum.photos/id/289/200/300" class="img-fluid" style="height: 100%; width: 100%">
             </div>
             <div class="col-md-2 col-xl-2 col-4">
-                <img src="https://picsum.photos/id/238/200/300" class="img-fluid" style="height: 30%;>
-                <img src="https://picsum.photos/id/239/200/300" class="img-fluid" style="height: 30%;>
-                <img src="https://picsum.photos/id/234/200/300" class="img-fluid" style="height: 30%;>
+                <img src="https://picsum.photos/id/238/200/300" class="img-fluid">
+                <img src="https://picsum.photos/id/239/200/300" class="img-fluid">
+                <img src="https://picsum.photos/id/234/200/300" class="img-fluid">
             </div>
             <div class="col-md-4 col-xl-2 col-4">
                 <img src="https://picsum.photos/id/137/200/300" class="img-fluid" style="height: 80%; width: 100%">
