@@ -12,16 +12,16 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <img src="img/work/work4.jpg" class="img-fluid">
+                <img src="https://picsum.photos/id/237/200/300" class="img-fluid">
             </div>
             <div class="col-md-2">
-                <img src="img/work/work6.jpg" class="img-fluid">
-                <img src="img/work/work5.jpg" class="img-fluid">
-                <img src="img/work/work7.jpg" class="img-fluid">
+                <img src="https://picsum.photos/id/238/200/300" class="img-fluid">
+                <img src="https://picsum.photos/id/239/200/300" class="img-fluid">
+                <img src="https://picsum.photos/id/234/200/300" class="img-fluid">
             </div>
             <div class="col-md-4">
-                <img src="img/work/work8.jpg" class="img-fluid">
-                <img src="img/work/work9.jpg" style="height: 20%;">
+                <img src="https://picsum.photos/id/137/200/300" class="img-fluid">
+                <img src="https://picsum.photos/id/287/200/300" style="height: 20%;">
             </div>
         </div> 
     </div>    
